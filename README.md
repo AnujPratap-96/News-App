@@ -22,7 +22,7 @@ Check out the app live: [News App](https://news-app-aps.netlify.app/)
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/AnujPratap-96/News-App.git
     cd news-app
     ```
 
